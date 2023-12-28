@@ -1,0 +1,2 @@
+== RestDocsTestController
+operation::gift-controller-test/gift-test[snippets="http-request,http-response"]
